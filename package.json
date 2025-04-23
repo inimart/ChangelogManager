@@ -1,0 +1,22 @@
+{
+  "name": "com.inimart.changelogmanager",
+  "version": "1.0.0",
+  "displayName": "Changelog Manager",
+  "description": "Editor window for managing scene changelogs and embedding version info into Android builds.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/inimart/ChangelogManager#readme",
+  "changelogUrl": "https://github.com/inimart/ChangelogManager/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/inimart/ChangelogManager/blob/main/LICENSE",
+  "keywords": [
+    "changelog",
+    "editor",
+    "tool"
+  ],
+  "author": {
+    "name": "Inimart",
+    "email": "inimartdesign@gmail.com",
+    "url": "https://www.inimart.com"
+  },
+  "dependencies": {
+  }
+} 
