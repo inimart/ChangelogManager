@@ -1,6 +1,6 @@
 {
   "name": "com.inimart.changelogmanager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Changelog Manager",
   "description": "Editor window for managing scene changelogs and embedding version info into Android builds.",
   "unity": "2021.3",
